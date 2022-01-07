@@ -3,7 +3,7 @@ package gorm_test
 import (
 	"testing"
 
-	"github.com/jinzhu/gorm"
+	"github.com/avyfinans/gorm"
 )
 
 func TestTheNamingStrategy(t *testing.T) {
